@@ -1,0 +1,42 @@
+{
+    "test_installation": {
+        "status": "INSTALLED",
+        "environment": {
+            "test_identifier": "pts\/rodinia-1.3.2",
+            "test_version": "1.3.2",
+            "install_checksum": "579565c49221021f52fb3e096f317ed0",
+            "system_hash": "MiB4IDA2LzhmX19VYnVudHUgMjQuMDRfX0dDQyAxMy4zLjAgKyBDVURBIDEzLjFfXw==",
+            "compiler_data": {
+                "compiler-type": "CXX",
+                "compiler": "g++",
+                "compiler-options": "-m64 -lm -lcuda -lcudart -lcudadevrt -lcudart_static -lrt -lpthread -ldl"
+            },
+            "install_footnote": null
+        },
+        "history": {
+            "install_date_time": "2026-01-02 04:10:12",
+            "last_run_date_time": "2026-01-02 04:13:09",
+            "install_time_length": 87,
+            "times_run": 1,
+            "average_runtime": 141,
+            "latest_runtime": 153,
+            "per_run_times": {
+                "all": {
+                    "values": [
+                        47
+                    ],
+                    "total_times": 1,
+                    "avg": 47
+                },
+                "2bb7b87a65a1a81214d9af8ccc2486fa29a6937a": {
+                    "values": [
+                        47
+                    ],
+                    "total_times": 1,
+                    "desc": "Test: NVIDIA CUDA GPU Myocyte",
+                    "avg": 47
+                }
+            }
+        }
+    }
+}

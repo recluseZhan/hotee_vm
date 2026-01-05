@@ -1,0 +1,2 @@
+# ./pathfinder 100000 100 20 > result.txt
+./pathfinder 100000 100 5 > result.txt

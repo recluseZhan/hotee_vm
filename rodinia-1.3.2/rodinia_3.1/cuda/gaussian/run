@@ -1,0 +1,3 @@
+# xin -- ./gaussian -f ../../data/gaussian/matrix4.txt
+# xin -- ./gaussian -s 16
+./gaussian -s 2048
